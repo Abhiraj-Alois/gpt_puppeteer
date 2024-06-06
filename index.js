@@ -6,10 +6,7 @@ function delay(delayTime) {
 
 (async function test() {
     let driver;
-    
-    // const username = 'Tiker bell'
-    // const email = 'tinkerbelldemo@gmail.com'
-    // const password = 'Alois@2024'
+
     
     try {
         const chromeDriverPath = 'chromedriver_win32\\chromedriver.exe'; 
