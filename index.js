@@ -7,7 +7,6 @@ function delay(delayTime) {
 (async function test() {
     let driver;
     
-    // const api_key = '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';
     // const username = 'Tiker bell'
     // const email = 'tinkerbelldemo@gmail.com'
     // const password = 'Alois@2024'
